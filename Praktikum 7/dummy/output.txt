@@ -1,0 +1,3 @@
+id  nmbrg    jml stok
+sorting barang terbanyak
+searching
